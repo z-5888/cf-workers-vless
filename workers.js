@@ -3,7 +3,7 @@
 // SUB_PATH | subpath  订阅路径
 // PROXYIP  | proxyip  代理IP
 // UUID     | uuid     UUID
-// WS_PATH  | ws_path  WebSocket路径，默认为 /?ed=2560
+// WS_PATH  | ws_path  WebSocket路径，默认为 /123456
 
 import { connect } from 'cloudflare:sockets';
 
@@ -11,7 +11,7 @@ let subPath = 'link';     // 节点订阅路径,不修改将使用uuid作为订�
 let password = '123456';  // 主页密码,建议修改或添加 PASSWORD环境变量
 let proxyIP = '';  // proxyIP
 let yourUUID = '5zz1x235-1195-41pd-953v-0aafbd917b63'; // UUID,建议修改或添加环境便量
-let wsPath = '/?ed=2560';  // WebSocket路径，可以修改为 /、/vless、/path 等 
+let wsPath = '/123456';  // WebSocket路径，可以修改为 /、/vless、/path 等 
 
 // CDN 
 let cfip = [ // 格式:优选域名:端口#备注名称、优选IP:端口#备注名称、[ipv6优选]:端口#备注名称、优选域名#备注 
