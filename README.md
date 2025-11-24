@@ -14,6 +14,5 @@
 |`UUID`  | `5zz1x235-1195-41pd-953v-0aafbd917b63` |生成或者符合格式的胡编乱造  |
 | `WS_PATH` | `/?ed=2560` | ws路径，随意胡编乱造即可 |
 
----
 
 基于[佬王仓库](https://markdown.lovejade.cn/?ref=markdown.lovejade.cn)修改，感谢大佬无私！
