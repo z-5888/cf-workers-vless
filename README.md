@@ -19,6 +19,6 @@ workers.js 文件中的代码复制，部署到workers中，设置变量绑定�
 基于 <a href="[url](https://github.com/eooce/Cloudflare-proxy)" target="_blank">佬王仓库</a> 修改，只修改了VLESS 感谢大佬无私！
 
 
-[超链接的名字][url](https://github.com/eooce/Cloudflare-proxy){target="_blank"}
+[超链接的名字]{(https://github.com/eooce/Cloudflare-proxy) target="_blank"}
 
 [1111](https://google.com){target="_blank"}
