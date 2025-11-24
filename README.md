@@ -16,4 +16,4 @@ workers.js 文件中的代码复制，部署到workers中，设置变量绑定�
 
 
 
-基于[佬王仓库](https://markdown.lovejade.cn/?ref=markdown.lovejade.cn)修改，感谢大佬无私！
+基于[佬王仓库](https://markdown.lovejade.cn/?ref=markdown.lovejade.cn)修改，只修改了VLESS 感谢大佬无私！
