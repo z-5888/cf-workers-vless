@@ -21,4 +21,4 @@ workers.js 文件中的代码复制，部署到workers中，设置变量绑定�
 
 [超链接的名字](https://github.com/eooce/Cloudflare-proxy)
 
-[1111](https://google.com){target="_blank"}
+<a href="https://example.com" target="_blank">Example Link</a>
