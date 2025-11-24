@@ -20,4 +20,4 @@ workers.js 文件中的代码复制，部署到workers中，设置变量绑定�
 
 
 
-<a href="https://example.com" target="_blank">12211212</a>
+[example](http://yinping4256.github.io){:target="_blank"}
